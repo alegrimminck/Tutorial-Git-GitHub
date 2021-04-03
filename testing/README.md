@@ -22,149 +22,152 @@
 
 ## APUNTES
 
-- **INSTALACIÓN GIT**
+<details>
+<summary>INSTALACIÓN GIT</summary>
+## Primer Paso:
 
-    Primer Paso:
+Nos dirigimos al siguiente enlace "[https://git-scm.com/](https://git-scm.com/)" damos clic en el botón de descarga para Windows:
 
-    Nos dirigimos al siguiente enlace "[https://git-scm.com/](https://git-scm.com/)" damos clic en el botón de descarga para Windows:
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled.png)
+Una vez descargado el instalador, damos click en él.
 
-    Una vez descargado el instalador, damos click en él.
+Se nos abrirá el asistente de instalador, damos click en Next> para aceptar la licencia
 
-    Se nos abrirá el asistente de instalador, damos click en Next> para aceptar la licencia
+Seguidamente elegimos la ruta de instalación
 
-    Seguidamente elegimos la ruta de instalación
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%201.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%201.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%201.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%201.png)
+Después seleccionamos los componentes, "On the desktop" y "Fuentes TrueType"
 
-    Después seleccionamos los componentes, "On the desktop" y "Fuentes TrueType"
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%202.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%202.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%202.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%202.png)
+En el siguiente recuadro elegimos el editor de texto que deseamos ocupar, en este caso elegimos Notepad++
 
-    En el siguiente recuadro elegimos el editor de texto que deseamos ocupar, en este caso elegimos Notepad++
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%203.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%203.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%203.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%203.png)
+En el siguiente cuadro, elegimos la tercera opción y presionamos "Next>"
 
-    En el siguiente cuadro, elegimos la tercera opción y presionamos "Next>"
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%204.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%204.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%204.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%204.png)
+En los siguientes cuadros solo presionamos "Next>"
 
-    En los siguientes cuadros solo presionamos "Next>"
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%205.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%205.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%205.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%205.png)
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%206.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%206.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%206.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%206.png)
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%207.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%207.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%207.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%207.png)
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%208.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%208.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%208.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%208.png)
+En el siguiente cuadro elegimos la opción "None" y luego presionamos "Next>"
 
-    En el siguiente cuadro elegimos la opción "None" y luego presionamos "Next>"
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%209.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%209.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%209.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%209.png)
+En el siguiente cuadro marcamos las 2 casillas y luego presionamos "Next>"
 
-    En el siguiente cuadro marcamos las 2 casillas y luego presionamos "Next>"
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2010.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2010.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2010.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2010.png)
+En el siguiente cuadro solo presionamos "Install"
 
-    En el siguiente cuadro solo presionamos "Install"
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2011.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2011.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2011.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2011.png)
+Se nos instalará Git y nos aparecerá el siguiente recuadro, donde debemos marcar "launch Git Bash" y desmarcar "View release notes" y presionamos "Next>"
 
-    Se nos instalará Git y nos aparecerá el siguiente recuadro, donde debemos marcar "launch Git Bash" y desmarcar "View release notes" y presionamos "Next>"
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2012.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2012.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2012.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2012.png)
+Se nos abrirá la consola de Git, donde colocaremos el siguiente comando "git —version" para confirmar la versión de Git que se está usando.
 
-    Se nos abrirá la consola de Git, donde colocaremos el siguiente comando "git —version" para confirmar la versión de Git que se está usando.
+- *Img*
 
-    - *Img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2013.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2013.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2013.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2013.png)
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2014.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2014.png)
+</details>
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2014.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2014.png)
+<details>
+<summary>GITHUB</summary>
+- **CUENTA Y CLONACIÓN REPOSITORIO**
 
-- **GITHUB**
-    - **CUENTA Y CLONACIÓN REPOSITORIO**
+- 
+</details>
 
-    - 
+<details>
+<summary>USO DE GIT+GITHUB</summary>
+Lo primero que debemos hacer es elegir el lugar donde vamos a clonar nuestro repositorio de GitHub
 
-- **USO DE GIT+GITHUB**
+Despues lo que debemos escribir  por la consola de git es lo siguiente
 
-    Lo primero que debemos hacer es elegir el lugar donde vamos a clonar nuestro repositorio de GitHub
+```jsx
+git clone <link del repo> (Ejemplo: https://github.com/javonunezz/repo1.git)
+```
 
-    Despues lo que debemos escribir  por la consola de git es lo siguiente
+- *Img*
 
-    ```jsx
-    git clone <link del repo> (Ejemplo: https://github.com/javonunezz/repo1.git)
-    ```
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2015.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2015.png)
 
-    - *Img*
+Luego se nos clonará los archivos del repositorio en la ubicación que elegimos:
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2015.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2015.png)
+- *Img*
 
-    Luego se nos clonará los archivos del repositorio en la ubicación que elegimos:
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2016.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2016.png)
 
-    - *Img*
+Para modificar o crear archivos en el **repo global** (GitHub) primero debemos modificar o crear el archivo en nuestro **repo local** (Donde clonamos el proyecto), luego las modificaciones se pasaran a la **repo global.**
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2016.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2016.png)
+- Ejemplo
 
-    Para modificar o crear archivos en el **repo global** (GitHub) primero debemos modificar o crear el archivo en nuestro **repo local** (Donde clonamos el proyecto), luego las modificaciones se pasaran a la **repo global.**
-
-    - Ejemplo
-
-        Agreguemos un archivo Hola.txt a nuestro repo local
-
-        - Img
-
-            ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2017.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2017.png)
-
-    Ahora bien primero que todo debemos corroborar el estado de los archivos de nuestro **repo local** ya que es importante ver los cambios realizados, para esto se usará el comando "git status" como se ve en la siguiente imagen:
-
-    ```jsx
-    git status
-    ```
+    Agreguemos un archivo Hola.txt a nuestro repo local
 
     - Img
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2018.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2018.png)
+        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2017.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2017.png)
 
-    Se usarán y se explicaran los siguientes comandos:
+Ahora bien primero que todo debemos corroborar el estado de los archivos de nuestro **repo local** ya que es importante ver los cambios realizados, para esto se usará el comando "git status" como se ve en la siguiente imagen:
 
-    ```jsx
-    git add
-    git commit
-    git push
-    git pull
-    ```
+```jsx
+git status
+```
 
-    Para esto nos basaremos en la siguiente imagen:
+- Img
 
-    - *img*
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2018.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2018.png)
 
-        ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/128hsgntnsu9bww0y8sz.jpg](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/128hsgntnsu9bww0y8sz.jpg)
+Se usarán y se explicaran los siguientes comandos:
 
-    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2019.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2019.png)
+```jsx
+git add
+git commit
+git push
+git pull
+```
 
-    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2020.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2020.png)
+Para esto nos basaremos en la siguiente imagen:
 
+- *img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/128hsgntnsu9bww0y8sz.jpg](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/128hsgntnsu9bww0y8sz.jpg)
+
+![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2019.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2019.png)
+
+![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2020.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2020.png)
+</details>
