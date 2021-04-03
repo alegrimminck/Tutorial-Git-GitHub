@@ -1,6 +1,6 @@
 # Git/Github
 
-![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/download.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/download.png)
+![FOTOS/MAIN/1.png](FOTOS/MAIN/1.png)
 
 **¿Qué es Git?**
 
@@ -22,9 +22,96 @@
 
 ## APUNTES
 
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+Primer Paso:
+
+Nos dirigimos al siguiente enlace "[https://git-scm.com/](https://git-scm.com/)" damos clic en el botón de descarga para Windows:
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled.png)
+
+Una vez descargado el instalador, damos click en él.
+
+Se nos abrirá el asistente de instalador, damos click en Next> para aceptar la licencia
+
+Seguidamente elegimos la ruta de instalación
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%201.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%201.png)
+
+Después seleccionamos los componentes, "On the desktop" y "Fuentes TrueType"
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%202.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%202.png)
+
+En el siguiente recuadro elegimos el editor de texto que deseamos ocupar, en este caso elegimos Notepad++
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%203.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%203.png)
+
+En el siguiente cuadro, elegimos la tercera opción y presionamos "Next>"
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%204.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%204.png)
+
+En los siguientes cuadros solo presionamos "Next>"
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%205.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%205.png)
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%206.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%206.png)
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%207.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%207.png)
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%208.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%208.png)
+
+En el siguiente cuadro elegimos la opción "None" y luego presionamos "Next>"
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%209.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%209.png)
+
+En el siguiente cuadro marcamos las 2 casillas y luego presionamos "Next>"
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2010.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2010.png)
+
+En el siguiente cuadro solo presionamos "Install"
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2011.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2011.png)
+
+Se nos instalará Git y nos aparecerá el siguiente recuadro, donde debemos marcar "launch Git Bash" y desmarcar "View release notes" y presionamos "Next>"
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2012.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2012.png)
+
+Se nos abrirá la consola de Git, donde colocaremos el siguiente comando "git —version" para confirmar la versión de Git que se está usando.
+
+- *Img*
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2013.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2013.png)
+
+    ![Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2014.png](Git%20Github%20af181a2ef8fc4360a6083def18961d9e/Untitled%2014.png)
+
+</p>
+</details>
+
 <details>
 <summary>INSTALACIÓN GIT</summary>
-## Primer Paso:
+Primer Paso:
 
 Nos dirigimos al siguiente enlace "[https://git-scm.com/](https://git-scm.com/)" damos clic en el botón de descarga para Windows:
 
